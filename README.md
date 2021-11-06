@@ -9,3 +9,9 @@ Create experiment repository (by pillar)
 First FNP 2022 cohort: Feb 2022
 
 Open source code
+
+Citadel: A fortified (encryption) space where people to seek safety and defend
+
+Our safety comes from access to uncensored information
+
+Our defence is Bitcoin
