@@ -1,17 +1,16 @@
-Welcome to The Health Citadel [THC for short]
+The Health Citadel
 
-Our first mission: v1.0 Health Protocol (FNP)
+P2P, decentralized health network built on Bitcoin. 
 
-36 Podcast lessons recorded (Sign up with Ruth over Slack)
-HGC team formed (7 members to start, bi-weekly call)
+**Health:** The process of taking full responsibility for one's well being. 
+**Citadel:** A fortified space where individuals seek safety and gain the ability to defend. 
 
-Create experiment repository (by pillar)
-First FNP 2022 cohort: Feb 2022
+Tools for defence: Bitcoin, truth, community
 
-Open source code
+We defend our time and we defend our health. Because time is the only scarce resource and health is what makes time valuable. 
 
-Citadel: A fortified (encryption) space where people to seek safety and defend
+**Mission components:**
 
-Our safety comes from access to uncensored information
-
-Our defence is Bitcoin
+Create an open source health protocol.
+Develop a protocol to validate health nodes.
+Design a peer to peer decentralized, online marketplace.
